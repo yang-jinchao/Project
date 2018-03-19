@@ -221,7 +221,7 @@ $(function(){
 		
 		//美妆品牌团/
 
-		$('.home_timer').countDown({date: '2018-03-24 18:00:00'});
+		$('.home_timer').countDown({date: '2018-05-24 18:00:00'});
 		
 		
 	})();
